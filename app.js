@@ -3,7 +3,7 @@ const express = require('express')
 const expressLayouts = require('express-ejs-layouts')
 
 const app = express()
-const port = 3000
+const port = 5000
 
 // Static Files Paths
 app.use(express.static('public'))
