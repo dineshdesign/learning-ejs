@@ -1,8 +1,9 @@
-# scshrc 
+# LearningEJS  
+  Code By Dinesh Design
 
-SCS Human Resources Support Agency
-OldPro23072021
-Code By Dinesh Design
-SASS Project
+# Learned from
+    NodeJS Setup With Express, HTML, CSS, JS & EJS
+    https://raddy.co.uk/blog/nodejs-setup-with-html-css-js-ejs/
 
-Need to work on New Layout Design
+    NodeJs Express EJS Layouts and Partials
+    https://raddy.co.uk/blog/nodejs-express-layouts-and-partials/
