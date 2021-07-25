@@ -1,0 +1,29 @@
+{
+  "name": "scshrc",
+  "version": "1.0.0",
+  "description": "SCS Human Resources Support Agency OldPro23072021 Code By Dinesh Design SASS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshdesign/scshrc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshdesign/scshrc/issues"
+  },
+  "homepage": "https://github.com/dineshdesign/scshrc#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
